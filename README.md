@@ -13,3 +13,7 @@
 | what a duche | now what | i think |
 | ------------ | -------- | ------- |
 |    20        |   45     |   60    |
+
+| my book | your book | total |
+| --- | --- | --- |
+| 33 | 44 | 88 |
