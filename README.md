@@ -1,4 +1,4 @@
-# my-notes
+# this is my-notes
 ---
 > an image:
 
