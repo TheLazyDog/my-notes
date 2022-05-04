@@ -1,6 +1,6 @@
 # this is my-notes
 ---
-[page-link](https://github.com/TheLazyDog/my-notes/tree/gh-pages)
+[page-link](https://thelazydog.github.io/my-notes/)
 ---
 > an image:
 
