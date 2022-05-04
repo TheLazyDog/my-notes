@@ -1,5 +1,7 @@
 # this is my-notes
 ---
+[page-link](https://github.com/TheLazyDog/my-notes/tree/gh-pages)
+---
 > an image:
 
 <img src="./1.png"><br>
